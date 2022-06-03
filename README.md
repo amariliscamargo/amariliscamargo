@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif" width="150"/>
 </div>
-<div id="badges">
+<div id="badges" style="text-align:center">
   <a href="https://www.linkedin.com/in/amarilis-camargo-28aa3522/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
