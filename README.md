@@ -12,6 +12,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>-->
 </div>
+<img src="https://komarev.com/ghpvc/?username=amariliscamargo&style=flat-square&color=blue" alt=""/>
 ---
 
 #### :woman_technologist: Sobre Amarilis : Sou uma desenvolvedora apaixonada pelo que faço. Sou muito curiosa,gosto muito de aprender. 
