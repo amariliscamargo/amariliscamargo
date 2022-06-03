@@ -20,11 +20,12 @@
 
 #### :woman_technologist: Sobre Amarilis : Sou uma desenvolvedora apaixonada pelo que faço. Sou muito curiosa,gosto muito de aprender. 
 <p>A linguagem PHP é a que mais utilizo, adoro o 'ecosistema' dela. Tenho conhecimento solido no CMS wordpress (plugin, temas), magento 2 (loja virtual), moodle (LMS). Como Framework eu utilizo muito o laravel e o yii2.</p>
-<p>Estou me especializando no momento em JavaScript, mexendo bastante em node Js e React Js.</p>
-<p>Conheço tambem AWS e Azure. Testes ja mexi no PHPUnit e Jest (Obrigada William Porto). </p>
-<p>Utilizo muito o docker, não sei como vivi tanto tempo sem essa "baleinha" linda 🐳 rsrsrsrsr.</p>
-<p>😄 Sou casada com um fisico fofo, sou mãe de uma menina linda. Adoro conhecer pessoas, amo bichinhos. Ah! tambem sou mãe de dois doguinhos.</p>
-<p> Acredito que sempre estamos aprendendo nessa vida e que não perdemos nada em sermos humildes. Todo ser humano todo pode nos ensinar alguma coisa.</p>
+<p>Estou me especializando no momento em JavaScript, mexendo bastante em NodeJs e ReactJs.</p>
+<p>Conheço tambem AWS e Azure.</p>
+<p>Testes, PHPUnit e Jest (Obrigada William Porto). </p>
+<p>Utilizo muito o Docker, não sei como vivi tanto tempo sem essa "baleinha" linda 🐳 rsrsrsrsr.</p>
+<p>😄 Sou casada com um fisico fofo, sou mãe de uma menina linda. Adoro conhecer pessoas, amo bichinhos. Ah! também sou mãe de dois doguinhos.</p>
+<p> Acredito que sempre estamos aprendendo nessa vida e que não perdemos nada em sermos humildes. Todo ser humano pode nos ensinar alguma coisa.</p>
 <p>Devemos sempre compartilhar nosso conhecimento e empoderar as pessoas. Ensinar é a coisa mais gostosa do mundo rsrsrsrs, ensinado se aprende duas vezes.</p>
 <p>Sou fanzona do maujor. </p>
 
