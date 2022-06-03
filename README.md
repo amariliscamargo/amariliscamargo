@@ -28,7 +28,11 @@
 <p>Devemos sempre compartilhar nosso conhecimento e empoderar as pessoas. Ensinar é a coisa mais gostosa do mundo rsrsrsrs, ensinado se aprende duas vezes.</p>
 <p>Sou fanzona do maujor. </p>
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/amarilis-camargo-28aa3522/)
+- :mailbox: Encontre me aqui: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/amarilis-camargo-28aa3522/)
+
+<br>
+<br>
+
 ### :hammer_and_wrench: Linguagens e Ferramentas :
 <div>
    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
@@ -63,10 +67,12 @@
 
 </div>
 
+<br>
+<br>
 
 ### :fire: Meu Status :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=amariliscamargo&theme=default)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=amariliscamargo&theme=cobalt)](https://git.io/streak-stats)
 
 
 <!--
