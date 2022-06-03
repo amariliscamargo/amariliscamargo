@@ -31,7 +31,21 @@
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/amarilis-camargo-28aa3522/)
 ### :hammer_and_wrench: Languages and Tools :
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/tree/master/icons/gitlab" title="Gitlab" alt="Gitlab" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-plain.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg" title="Laravel" alt="Laravel" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/yii/yii-original.svg" title="Yii" alt="Yii" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="Wordpress" alt="Wordpress" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/moodle/moodle-original.svg" title="Moodle" alt="Moodle" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/magento/magento-original.svg" title="Magento" alt="Magento" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original.svg" title="Apache" alt="Apache" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/tree/master/icons/nginx" title="Nginex" alt="Nginex" width="40" height="40"/>&nbsp;
 </div>
 <!--
 **amariliscamargo/amariliscamargo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
