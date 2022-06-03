@@ -29,7 +29,7 @@
 <p>Sou fanzona do maujor. </p>
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/amarilis-camargo-28aa3522/)
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Linguagens e Ferramentas :
 <div>
    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
