@@ -63,9 +63,10 @@
 
 </div>
 
+
 ### :fire: Meu Status :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=amariliscamargo&theme=dark&background=default)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=amariliscamargo&theme=default)](https://git.io/streak-stats)
 
 
 <!--
