@@ -15,7 +15,7 @@
 ---
 
 #### :woman_technologist: Sobre Amarilis : Sou uma desenvolvedora apaixonada pelo que faço. Sou muito curiosa,gosto muito de aprender. 
-> A linguagem PHP é a que mais utilizo, adoro o 'ecosistema' dela. Tenho conhecimento solido no CMS wordpress (plugin, temas), magento 2 (loja virtual), moodle (LMS). Como Framework eu utilizo muito o laravel e o yii2.
+<p>A linguagem PHP é a que mais utilizo, adoro o 'ecosistema' dela. Tenho conhecimento solido no CMS wordpress (plugin, temas), magento 2 (loja virtual), moodle (LMS). Como Framework eu utilizo muito o laravel e o yii2.</p>
 > Estou me especializando no momento em JavaScript, mexendo bastante em node Js e React Js.
 > Conheço tambem AWS e Azure. Testes ja mexi no PHPUnit e Jest (Obrigada William Porto)
 > E utilizo muito o docker, não sei como vivi tanto tempo sem essa "baleinha" linda 🐳 rsrsrsrsr.
