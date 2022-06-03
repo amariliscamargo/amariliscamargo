@@ -45,7 +45,7 @@
  <img src="https://github.com/devicons/devicon/blob/master/icons/moodle/moodle-original.svg" title="Moodle" alt="Moodle" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/magento/magento-original.svg" title="Magento" alt="Magento" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original.svg" title="Apache" alt="Apache" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/tree/master/icons/nginx" title="Nginex" alt="Nginex" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="Nginex" alt="Nginex" width="40" height="40"/>&nbsp;
 </div>
 <!--
 **amariliscamargo/amariliscamargo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
