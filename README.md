@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif" width="150"/>
 </div>
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/amarilis-camargo-28aa3522/">
+  <a href="https://www.linkedin.com/in/amarilis-camargo-28aa3522/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <!--<a href="your-youtube-URL">
