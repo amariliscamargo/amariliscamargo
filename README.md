@@ -24,7 +24,7 @@
 <p>Devemos sempre compartilhar nosso conhecimento e empoderar as pessoas. Ensinar é a coisa mais gostosa do mundo rsrsrsrs, ensinado se aprende duas vezes.</p>
 <p>Sou fanzona do maujor. </p>
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Amarilis Camargo-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/amarilis-camargo-28aa3522/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/amarilis-camargo-28aa3522/)
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
