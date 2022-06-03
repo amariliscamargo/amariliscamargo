@@ -62,6 +62,8 @@
  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp;
 
 </div>
+
+### :fire: Meu Status :
 <!--
 **amariliscamargo/amariliscamargo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
