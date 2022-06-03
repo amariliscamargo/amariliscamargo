@@ -19,7 +19,7 @@
 - Estou me especializando no momento em JavaScript, mexendo bastante em node Js e React Js.
 - Conheço tambem AWS e Azure
 - E utilizo muito o docker, não sei como vivi tanto tempo sem essa "baleinha" linda rsrsrsrsr.
-- 😄 Sou casada com um fisico fofo, sou mãe de uma menina linda. Adoro conhecer pessoas, amo bichinhos. Ah! tambem sou mãe de dois doguinhos.
+  😄 Sou casada com um fisico fofo, sou mãe de uma menina linda. Adoro conhecer pessoas, amo bichinhos. Ah! tambem sou mãe de dois doguinhos.
 - Acredito que sempre estamos aprendendo nessa vida e que não perdemos nada em sermos humildes. Todo ser humano todo pode nos ensinar alguma coisa.
 - Devemos sempre compartilhar nosso conhecimento e empoderar as pessoas. Ensinar é a coisa mais gostosa do mundo rsrsrsrs, ensinado se aprende duas vezes.
 - Sou fanzona do maujor 
