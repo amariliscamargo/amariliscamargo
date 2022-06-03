@@ -23,7 +23,7 @@
 <p> Acredito que sempre estamos aprendendo nessa vida e que não perdemos nada em sermos humildes. Todo ser humano todo pode nos ensinar alguma coisa.</p>
 <p>Devemos sempre compartilhar nosso conhecimento e empoderar as pessoas. Ensinar é a coisa mais gostosa do mundo rsrsrsrs, ensinado se aprende duas vezes.</p>
 <p>Sou fanzona do maujor. </p>
-
+### :hammer_and_wrench: Languages and Tools :
 <!--
 **amariliscamargo/amariliscamargo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
