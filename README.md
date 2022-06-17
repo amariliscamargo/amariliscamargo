@@ -18,7 +18,7 @@
 
 ---
 
-#### :woman_technologist: Sobre Amarilis : Sou uma desenvolvedora apaixonada pelo que faço. Sou muito curiosa,gosto muito de aprender. 
+#### :woman_technologist: Sobre Amarilis : Sou uma desenvolvedora, apaixonada pelo que faço. Sou muito curiosa,gosto muito de aprender. 
 <p>A linguagem PHP é a que mais utilizo, adoro o 'ecosistema' dela. Tenho conhecimento sólido no CMS wordpress (plugin, temas), magento 2 (loja virtual), moodle (LMS). Como Framework eu utilizo muito o laravel e o yii2.</p>
 <p>Estou nesse momento focando mais em JavaScript, mexendo bastante em NodeJs e ReactJs.</p>
 <p>Nuvem AWS e Azure.</p>
